@@ -35,7 +35,7 @@ function setup() {
 
 function draw() {
   rectMode(CENTER);
-  background("white");
+  background("skyblue");
 
   ground.display();
   rubber.display();
